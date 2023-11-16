@@ -1,7 +1,9 @@
-# This is my pretty cool webpage!
+# This is my personal github webpage!
 
-My name is Victor Hugo and I grew up in the East Coast of Mexico and, as a consequence, I like Piña Colada, getting caught in the warm rain, and the sound of the ocean.
+My name is Alejandro Barba and i am a data junkie and board games fan.
 
-![](https://media.giphy.com/media/wVmVnHNvdHBPSWMB9r/giphy.gif)
+![](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)
 
-Source: [Giphy](https://giphy.com/gifs/idea-concept-what-a-wVmVnHNvdHBPSWMB9r)
+Source: [Giphy](https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)
+
+Esta es mi cuenta de github por si quieres darle un vistazo [Alejandro-Tecno](https://github.com/Alejandro-Tecno)
